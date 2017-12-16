@@ -1,0 +1,9 @@
+{
+    "name": "byservet-remove-dialog",
+    "title": "Remove Fucking Starting Dialog",
+    "homepage": "none",
+    "author": "Servet ÖZ",
+    "version": "1.0.1",
+    "engines": { "brackets": ">=0.16" },
+    "description": "Removes beginning dialogs ex: Brackets Web Admin"
+}
