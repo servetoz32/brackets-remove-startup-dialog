@@ -1,7 +1,7 @@
 {
     "name": "byservet-remove-dialog",
     "title": "Remove Fucking Starting Dialog",
-    "homepage": "none",
+    "homepage": "https://github.com/servetoz32/brackets-remove-startup-dialog",
     "author": "Servet ÖZ",
     "version": "1.0.1",
     "engines": { "brackets": ">=0.16" },
